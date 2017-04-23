@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first">
+        <item></item>
+        <item>braun</item>
+        <item>rot</item>
+        <item>orange</item>
+        <item>gelb</item>
+        <item>grün</item>
+        <item>blau</item>
+        <item>violett</item>
+        <item>grau</item>
+        <item>weiß</item>
+    </string-array>
+
+    <string-array name="secondThird">
+        <item></item>
+        <item>schwarz</item>
+        <item>braun</item>
+        <item>rot</item>
+        <item>orange</item>
+        <item>gelb</item>
+        <item>grün</item>
+        <item>blau</item>
+        <item>violett</item>
+        <item>grau</item>
+        <item>weiß</item>
+    </string-array>
+
+    <string-array name="fourth">
+        <item></item>
+        <item>silber</item>
+        <item>gold</item>
+        <item>schwarz</item>
+        <item>braun</item>
+        <item>rot</item>
+        <item>orange</item>
+        <item>gelb</item>
+        <item>grün</item>
+        <item>blau</item>
+        <item>violett</item>
+        <item>grau</item>
+        <item>weiß</item>
+    </string-array>
+
+    <string-array name="fifth">
+        <item></item>
+        <item>silber</item>
+        <item>gold</item>
+        <item>braun</item>
+        <item>rot</item>
+        <item>grün</item>
+        <item>blau</item>
+        <item>violett</item>
+        <item>grau</item>
+    </string-array>
+
+    <string-array name="sixth">
+        <item></item>
+        <item>braun</item>
+        <item>rot</item>
+        <item>orange</item>
+        <item>gelb</item>
+        <item>blau</item>
+        <item>violett</item>
+        <item>weiß</item>
+    </string-array>
+
+</resources>
