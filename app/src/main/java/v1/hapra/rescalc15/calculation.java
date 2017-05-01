@@ -25,7 +25,7 @@ public class calculation {
     public String getResistance() {
         try {
             Double resistance = getResistanceAsNumber();
-            return String.format("%.0f", resistance) + " Ω";
+            return String.format("%.2f", resistance) + " Ω";
         } catch (Exception e) {
             return "";
         }
@@ -53,7 +53,7 @@ public class calculation {
         Integer second = colorToNumber(this.second);
         Integer third = colorToNumber(this.third);
         Double fourth = colorToMultiplier();
-        return (first * 100 + second * 10 * third)*fourth;
+        return (first * 100 + second * 10 + third)*fourth;
     }
 
 
